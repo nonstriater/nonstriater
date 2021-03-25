@@ -11,9 +11,9 @@ Skills         |  Desc                            |   Progress
 -------------- | -------------------------------- | -----------------
 Objective-C    |  7 years, Didi app               |   👉👉👉👉👉👉👉👉
 Java           |  RTA/RTB, 45wQPS, 60ms           |   👉👉👉👉
-Golang         |  ad system,channel mgm           |   👉👉👉👉
-Scala          |  Desc                            |   👉
-Python         |  Desc                            |   👉
+Golang         |  Ad system,Channel mngm          |   👉👉👉👉
+Scala          |  feature SDK                     |   👉
+Python         |  Spark Tasks, script             |   👉
 Shell          |  script                          |   👉👉👉
 MySQL          |  Desc                            |   👉👉👉👉
 Redis          |  Desc                            |   👉👉👉👉
