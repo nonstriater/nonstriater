@@ -7,26 +7,27 @@
 
 
 
-Skills         |  Desc    |   Progress
--------------- | -------- | ----------
-Objective-C    |  Desc    |   👉👉👉👉
-Java           |  Desc    |   👉
-Golang         |  Desc    |   Progress
-Python         |  Desc    |   Progress
-Shell          |  Desc    |   Progress
-MySQL          |  Desc    |   Progress
-Redis          |  Desc    |   Progress
-Nginx          |  Desc    |   Progress
-ES             |  Desc    |   Progress
-Kafka/RabbitMQ |  Desc    |   Progress
-ZK             |  Desc    |   Progress
-Distribute Sys |  Desc    |   Progress
-Spring         |  Desc    |   Progress
-HBase/Hive     |  Desc    |   Progress
-Spark          |  Desc    |   Progress
-Flink          |  Desc    |   Progress
-ClickHouse     |  Desc    |   Progress
-XGBoost        |  Desc    |   Progress
+Skills         |  Desc                            |   Progress
+-------------- | -------------------------------- | -----------------
+Objective-C    |  7 years, Didi app               |   👉👉👉👉👉👉👉👉
+Java           |  RTA/RTB, 45wQPS, 60ms           |   👉👉👉👉
+Golang         |  ad system,channel mgm           |   👉👉👉👉
+Scala          |  Desc                            |   👉
+Python         |  Desc                            |   👉
+Shell          |  script                          |   👉👉👉
+MySQL          |  Desc                            |   👉👉👉👉
+Redis          |  Desc                            |   👉👉👉👉
+Nginx          |  Desc                            |   👉👉
+ES             |  Desc                            |   👉
+Kafka/RabbitMQ |  Desc                            |   👉👉
+ZK             |  Desc                            |   👉
+Distribute Sys |  Desc                            |   👉👉
+Spring         |  Desc                            |   👉
+HBase/Hive     |  Desc                            |   👉👉👉
+Spark          |  Desc                            |   👉
+Flink          |  Desc                            |   👉
+ClickHouse     |  Desc                            |   👉
+XGBoost        |  Desc                            |   👉👉👉👉
 
 
 
