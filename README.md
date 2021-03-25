@@ -22,10 +22,9 @@ Kafka/RabbitMQ |  Desc    |   Progress
 ZK             |  Desc    |   Progress
 Distribute Sys |  Desc    |   Progress
 Spring         |  Desc    |   Progress
-HBase          |  Desc    |   Progress
+HBase/Hive     |  Desc    |   Progress
 Spark          |  Desc    |   Progress
 Flink          |  Desc    |   Progress
-Hive           |  Desc    |   Progress
 ClickHouse     |  Desc    |   Progress
 XGBoost        |  Desc    |   Progress
 
