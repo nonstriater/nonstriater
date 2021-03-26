@@ -16,8 +16,8 @@ Golang         |  Ad system,Channel mngm          |   👉👉👉👉
 Scala          |  AI feature-SDK                  |   👉
 Python         |  Spark Tasks, script             |   👉
 Shell          |  script                          |   👉👉👉
-MySQL          |  Desc                            |   👉👉👉👉
-Redis          |  Desc                            |   👉👉👉👉
+MySQL          |  basic,index,transaction,lock    |   👉👉👉👉
+Redis          |  basic,                            |   👉👉👉👉
 Nginx          |  Desc                            |   👉👉👉
 ES             |  Desc                            |   👉
 Kafka/RabbitMQ |  Desc                            |   👉👉
