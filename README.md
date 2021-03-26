@@ -19,16 +19,16 @@ Shell          |  script                          |   👉👉👉
 MySQL          |  basic,index,transaction,lock    |   👉👉👉👉
 Redis          |  basic,optim,impl                |   👉👉👉👉
 Nginx          |  config,impl                     |   👉👉👉
-ES             |  Desc                            |   👉
-Kafka/RabbitMQ |  Desc                            |   👉👉
+ES             |  basic,impl                      |   👉
+Kafka/RabbitMQ |  basic,impl                      |   👉👉
 ZK             |  Desc                            |   👉
-Distribute Sys |  Desc                            |   👉👉
-Spring         |  Desc                            |   👉
-HBase/Hive     |  Desc                            |   👉👉👉
-Spark          |  Desc                            |   👉
-Flink          |  Desc                            |   👉
-ClickHouse     |  Desc                            |   👉
-XGBoost        |  Desc                            |   👉👉👉👉
+Distribute Sys |  RPC,SOA,consistency             |   👉👉
+Spring         |  IOC/AOP,Annotation,Spring Cloud |   👉
+HBase/Hive     |  basic,Modeling                  |   👉👉👉
+Spark          |  basic,AI                        |   👉
+Flink          |  basic                           |   👉
+ClickHouse     |  basic                           |   👉
+XGBoost        |  basic,impl                      |   👉👉👉👉
 
 
 
