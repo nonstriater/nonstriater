@@ -9,11 +9,11 @@
 
 Skills         |  Desc                            |   Progress
 -------------- | -------------------------------- | -----------------
-CS Basic       |  CPU,MEM,PROCESS,NET,FS          |   👉👉👉👉👉👉👉👉
+CS Basic       |  CPU,MEM,PROCESS,NET,FS,DS       |   👉👉👉👉👉👉👉👉
 Objective-C    |  7 years, Didi app               |   👉👉👉👉👉👉👉👉
 Java           |  RTA/RTB, 45wQPS, 60ms           |   👉👉👉👉
 Golang         |  Ad system,Channel mngm          |   👉👉👉👉
-Scala          |  feature SDK                     |   👉
+Scala          |  AI feature-SDK                  |   👉
 Python         |  Spark Tasks, script             |   👉
 Shell          |  script                          |   👉👉👉
 MySQL          |  Desc                            |   👉👉👉👉
