@@ -9,6 +9,7 @@
 
 Skills         |  Desc                            |   Progress
 -------------- | -------------------------------- | -----------------
+CS Basic       |  CPU,MEM,PROCESS,NET,FS          |   👉👉👉👉👉👉👉👉
 Objective-C    |  7 years, Didi app               |   👉👉👉👉👉👉👉👉
 Java           |  RTA/RTB, 45wQPS, 60ms           |   👉👉👉👉
 Golang         |  Ad system,Channel mngm          |   👉👉👉👉
@@ -17,7 +18,7 @@ Python         |  Spark Tasks, script             |   👉
 Shell          |  script                          |   👉👉👉
 MySQL          |  Desc                            |   👉👉👉👉
 Redis          |  Desc                            |   👉👉👉👉
-Nginx          |  Desc                            |   👉👉
+Nginx          |  Desc                            |   👉👉👉
 ES             |  Desc                            |   👉
 Kafka/RabbitMQ |  Desc                            |   👉👉
 ZK             |  Desc                            |   👉
