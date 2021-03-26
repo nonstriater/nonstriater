@@ -15,6 +15,7 @@ Java           |  RTA/RTB, 45wQPS, 60ms           |   👉👉👉👉
 Golang         |  Ad system,Channel mngm          |   👉👉👉👉
 Scala          |  AI feature-SDK                  |   👉
 Python         |  Spark Tasks, script             |   👉
+Solidity       |  Smart Contracts,ETH,Defi        |   👉
 Shell          |  script                          |   👉👉👉
 MySQL          |  basic,index,transaction,lock    |   👉👉👉👉
 Redis          |  basic,optim,impl                |   👉👉👉👉
